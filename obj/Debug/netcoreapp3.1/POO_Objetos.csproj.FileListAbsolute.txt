@@ -1,0 +1,13 @@
+C:\Users\guilh\Desktop\POO_Objetos\bin\Debug\netcoreapp3.1\POO_Objetos.exe
+C:\Users\guilh\Desktop\POO_Objetos\bin\Debug\netcoreapp3.1\POO_Objetos.deps.json
+C:\Users\guilh\Desktop\POO_Objetos\bin\Debug\netcoreapp3.1\POO_Objetos.runtimeconfig.json
+C:\Users\guilh\Desktop\POO_Objetos\bin\Debug\netcoreapp3.1\POO_Objetos.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\POO_Objetos\bin\Debug\netcoreapp3.1\POO_Objetos.dll
+C:\Users\guilh\Desktop\POO_Objetos\bin\Debug\netcoreapp3.1\POO_Objetos.pdb
+C:\Users\guilh\Desktop\POO_Objetos\obj\Debug\netcoreapp3.1\POO_Objetos.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\POO_Objetos\obj\Debug\netcoreapp3.1\POO_Objetos.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\POO_Objetos\obj\Debug\netcoreapp3.1\POO_Objetos.AssemblyInfo.cs
+C:\Users\guilh\Desktop\POO_Objetos\obj\Debug\netcoreapp3.1\POO_Objetos.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\POO_Objetos\obj\Debug\netcoreapp3.1\POO_Objetos.dll
+C:\Users\guilh\Desktop\POO_Objetos\obj\Debug\netcoreapp3.1\POO_Objetos.pdb
+C:\Users\guilh\Desktop\POO_Objetos\obj\Debug\netcoreapp3.1\POO_Objetos.genruntimeconfig.cache
